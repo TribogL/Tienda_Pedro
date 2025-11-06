@@ -80,8 +80,6 @@ public class FrmLogin extends javax.swing.JFrame {
         jLabel3.setText("Password");
         jLabel3.setToolTipText("");
         jPanel3.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 80, -1, 10));
-        jLabel3.getAccessibleContext().setAccessibleName("Password");
-        jLabel3.getAccessibleContext().setAccessibleDescription("");
 
         jPasswordField1.setBackground(new java.awt.Color(255, 255, 255));
         jPasswordField1.addActionListener(new java.awt.event.ActionListener() {
